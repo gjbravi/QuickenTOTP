@@ -1,0 +1,3 @@
+rumps==2.2.1
+pyotp==2.6.0
+pyperclip==3.1.1
